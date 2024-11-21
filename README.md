@@ -24,7 +24,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javihelio&" alt="javihelio" /></p>
 
 * PLEX
-* UBUNTU_22.04
-* WINDOWS_SERVER_2019
+* UBUNTU
+* WINDOWS
 * VIRTUAL CODE
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,plex,vscode,windows,jellyfin)](https://skillicons.dev)
+* JELLYFIN
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,plex,vscode,windows,jellyfin, ubuntu)](https://skillicons.dev)
