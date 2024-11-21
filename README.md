@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 * UBUNTU_22.04
 * WINDOWS_SERVER_2019
 * VIRTUAL CODE
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,plex,vscode,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,plex,vscode,windows,jellyfin)](https://skillicons.dev)
